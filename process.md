@@ -13,8 +13,8 @@
 - MVP : "회원가입, 로그인, 게시물 작성/조회/수정/삭제" 기능.
 
 ---
-> [frontend repo link](https://github.com/Pofolit/pofolit_fe)  
-> [backend repo link](https://github.com/Pofolit/pofolit_be)  
+> [frontend repo link](https://github.com/Pofolit/pofolit_Fe)  
+> [backend repo link](https://github.com/Pofolit/pofolit_Be)  
 > [meta repo link](https://github.com/Pofolit/meta)
 
 #### 개발 환경
