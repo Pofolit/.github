@@ -1,33 +1,17 @@
-> **[📂system](https://github.com/Pofolit/.github/process.md)**  
-> **[📂frontend repo link](https://github.com/Pofolit/pofolit_fe)**  
-> **[📂backend repo link](https://github.com/Pofolit/pofolit_be)**  
-> **[📂meta repo link](https://github.com/Pofolit/meta)**  
+> **[📂process](https://github.com/Pofolit/.github/process.md)**  
+> **[📂Frontend repo](https://github.com/Pofolit/pofolit_fe)**  
+> **[📂Backend repo](https://github.com/Pofolit/pofolit_be)**  
+> **[📂Meta repo](https://github.com/Pofolit/.github)**
 
-`📂meta/docs/`: 공통 문서  
-`📂meta/images/`: 이미지 소스
+`📂.github/docs/`: 공통 문서  
+`📂.github/images/`: 이미지 소스
 
 ---
 
-<details> <summary>프로젝트 구조 펼쳐보기</summary>
-  
+<details> <summary>프론트 페이지 구성</summary>
+
+![페이지 구성](images/FrontPage1.png)
+
 </details>
-<details> <summary>업무 프로세스 펼쳐보기</summary>
-  
-</details>
 
-
-
-## 🧑‍💻 Team
-| 이름    | 담당  |
-| ------- | ----------- |
-| 피자 | 백엔드 |
-| 치킨 | 백엔드 |
-| 콜라 | 프론트 |
-| 감튀 | 프론트 |
-| 햄버거 | 리딩 |
---- 
-
-
-
-<br>
-
+---
