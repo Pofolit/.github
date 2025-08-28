@@ -1,9 +1,14 @@
-> **[🔗Notion](https://www.notion.so/Pofolit-221e37f74837801f8710c4f97e940ea6?source=copy_link)**  
-> **[📂Frontend repo](https://github.com/Pofolit/pofolit_fe)**  
-> **[📂Backend repo](https://github.com/Pofolit/pofolit_be)**  
+> **[🔗Notion](https://www.notion.so/Pofolit-221e37f74837801f8710c4f97e940ea6?source=copy_link)**
+>
+> **[📂Frontend repo](https://github.com/Pofolit/pofolit_fe)**
+> 
+> **[📂Backend repo](https://github.com/Pofolit/pofolit_be)**
+> 
 > **[📂Meta repo](https://github.com/Pofolit/.github)**
+> 
 > **[📂front-dev-test repo ](https://github.com/Pofolit/Front_endpoint)**
-
+</br>
+  
 [`📂.github/docs/`](https://github.com/Pofolit/.github/tree/main/docs): 공통 문서  
 [`📂.github/images/`](https://github.com/Pofolit/.github/tree/main/images): 이미지 소스
 
