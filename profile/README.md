@@ -13,6 +13,8 @@
 [`📂.github/images/`](https://github.com/Pofolit/.github/tree/main/images): 이미지 소스
 
 
+
+
 ---
 
 <details> <summary>개발 환경 펼쳐보기</summary>
@@ -69,17 +71,18 @@ MVP
 ```
 
 ```
- 
 
 </details>
 
-## 🧑‍💻 Team
-| 이름    | 담당  |  
-| ------- | ----------- | 
-| 피자 | 백엔드 | 
-| 치킨 | 백엔드 | 
-| 콜라 | 프론트 |
-| 감튀 | 프론트 |
-| 햄버거 | 리딩 |
+
+## 🧑‍💻 Team 
+|||
+| --- | --- | 
+| <figure><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8c1ac1af-0817-4544-8540-972b598e8fa1" /> <figcaption>[![Static Badge](https://img.shields.io/badge/HamBurger_햄벅-lsb530-212121)](https://github.com/lsb530)</figcaption></figure> | |
+| <figure><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d8c4c467-ebcb-480f-b145-263d6584e4ff" /> <figcaption>[![Static Badge](https://img.shields.io/badge/Backend_피자-myaeba-212121)](https://github.com/myaeba)<figcaption></figure>  |   채팅 등 주요 도메인 서비스 |
+| <figure><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1df3f9ef-e143-4201-86fe-4854712783c5" /> <figcaption>[![Static Badge](https://img.shields.io/badge/Backend_치킨-ruukr8080-212121)](https://github.com/ruukr8080)</figcaption></figure>  |   보안 시스템 및 인프라 |
+| <figure><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e6e3eb07-a055-426c-93d7-0e6845110ebc" /> <figcaption>[![Static Badge](https://img.shields.io/badge/Frontend_콜라-hong_gyeng_rok-212121)](https://github.com/hong-gyeng-rok)</figcaption></figure> |  |
+| <figure><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b425a0ec-e395-4a1f-9888-3d7068d71640" /> <figcaption>[![Static Badge](https://img.shields.io/badge/Frontend_감튀-5647kr-212121)](https://github.com/5647kr)</figcaption></figure> | |
+
 --- 
 
